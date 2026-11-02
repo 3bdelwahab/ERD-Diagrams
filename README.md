@@ -3,7 +3,7 @@ Entity Relationship Diagram (ERD) project designing a relational database, inclu
 # ERD Project
 
 ## Overview
-This project presents an Entity Relationship Diagram (ERD) designed for [وصف النظام]. 
+This project presents an Entity Relationship Diagram (ERD) designed. 
 The goal is to organize the data in a clear structure and define how the entities relate to each other.
 
 ## What's Inside
@@ -13,11 +13,7 @@ The goal is to organize the data in a clear structure and define how the entitie
 - Normalization to reduce data redundancy
 
 ## Tools Used
-- [الأداة اللي رسمت بيها: dbdiagram.io / draw.io / Lucidchart / MySQL Workbench]
-
-## Files
-- `ERD.png`: the final diagram
-- [أي ملفات تانية زي SQL script أو PDF]
+[dbdiagram.io / draw.io]
 
 ## Author
 Abdelwahab Attia, Data Analyst
